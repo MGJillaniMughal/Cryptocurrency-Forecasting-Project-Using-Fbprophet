@@ -1,0 +1,1038 @@
+name,tag,symbol,currency,status
+Bitcoin,bitcoin,BTC,USD,available
+Ethereum,ethereum,ETH,USD,available
+Binance Coin,binance-coin,BNB,USD,available
+Tether,tether,USDT,USD,available
+Cardano,cardano,ADA,USD,available
+Polkadot,polkadot-new,DOT,USD,available
+XRP,xrp,XRP,USD,available
+Uniswap,uniswap,UNI,USD,available
+Litecoin,litecoin,LTC,USD,available
+Chainlink,chainlink,LINK,USD,available
+THETA,theta,THETA,USD,available
+USD Coin,usd-coin,USDC,USD,available
+Bitcoin Cash,bitcoin-cash,BCH,USD,available
+Stellar,stellar,XLM,USD,available
+Terra,terra-luna,LUNA,USD,available
+Wrapped Bitcoin,wrapped-bitcoin,WBTC,USD,available
+Dogecoin,dogecoin,DOGE,USD,available
+VeChain,vechain,VET,USD,available
+Crypto.com Coin,crypto-com-coin,CRO,USD,available
+Filecoin,filecoin,FIL,USD,available
+Aave,aave,AAVE,USD,available
+TRON,tron,TRX,USD,available
+IOTA,iota,MIOTA,USD,available
+Cosmos,cosmos,ATOM,USD,available
+Solana,solana,SOL,USD,available
+EOS,eos,EOS,USD,available
+Avalanche,avalanche,AVAX,USD,available
+Monero,monero,XMR,USD,available
+Bitcoin SV,bitcoin-sv,BSV,USD,available
+Kusama,kusama,KSM,USD,available
+FTX Token,ftx-token,FTT,USD,available
+Tezos,tezos,XTZ,USD,available
+NEM,nem,XEM,USD,available
+BitTorrent,bittorrent,BTT,USD,available
+Algorand,algorand,ALGO,USD,available
+Neo,neo,NEO,USD,available
+Chiliz,chiliz,CHZ,USD,available
+Dai,multi-collateral-dai,DAI,USD,available
+Huobi Token,huobi-token,HT,USD,available
+Hedera Hashgraph,hedera-hashgraph,HBAR,USD,available
+Elrond,elrond-egld,EGLD,USD,available
+SushiSwap,sushiswap,SUSHI,USD,available
+Synthetix,synthetix-network-token,SNX,USD,available
+Dash,dash,DASH,USD,available
+Theta Fuel,theta-fuel,TFUEL,USD,available
+UNUS SED LEO,unus-sed-leo,LEO,USD,available
+The Graph,the-graph,GRT,USD,available
+Decred,decred,DCR,USD,available
+Maker,maker,MKR,USD,available
+Zilliqa,zilliqa,ZIL,USD,available
+Compound,compound,COMP,USD,available
+Polygon,polygon,MATIC,USD,available
+NEAR Protocol,near-protocol,NEAR,USD,available
+Enjin Coin,enjin-coin,ENJ,USD,available
+Ravencoin,ravencoin,RVN,USD,available
+Basic Attention Token,basic-attention-token,BAT,USD,available
+Pundi X,pundi-x,NPXS,USD,available
+Zcash,zcash,ZEC,USD,available
+PancakeSwap,pancakeswap,CAKE,USD,available
+Harmony,harmony,ONE,USD,available
+Decentraland,decentraland,MANA,USD,available
+Nexo,nexo,NEXO,USD,available
+UMA,uma,UMA,USD,available
+Ethereum Classic,ethereum-classic,ETC,USD,available
+Bancor,bancor,BNT,USD,available
+SwissBorg,swissborg,CHSB,USD,available
+THORChain,thorchain,RUNE,USD,available
+yearn.finance,yearn-finance,YFI,USD,available
+Holo,holo,HOT,USD,available
+Reserve Rights,reserve-rights,RSR,USD,available
+ICON,icon,ICX,USD,available
+Celsius,celsius,CEL,USD,available
+0x,0x,ZRX,USD,available
+Waves,waves,WAVES,USD,available
+Fantom,fantom,FTM,USD,available
+Ren,ren,REN,USD,available
+Siacoin,siacoin,SC,USD,available
+Revain,revain,REV,USD,available
+Voyager Token,voyager-token,VGX,USD,available
+Ontology,ontology,ONT,USD,available
+DigiByte,digibyte,DGB,USD,available
+Dent,dent,DENT,USD,available
+OKB,okb,OKB,USD,available
+IOST,iostoken,IOST,USD,available
+OMG Network,omg,OMG,USD,available
+Paxos Standard,paxos-standard,PAX,USD,available
+Celo,celo,CELO,USD,available
+1inch,1inch,1INCH,USD,available
+Nano,nano,NANO,USD,available
+Nano,nano,NANO,USD,available
+Qtum,qtum,QTUM,USD,available
+Loopring,loopring,LRC,USD,available
+Ocean Protocol,ocean-protocol,OCEAN,USD,available
+Curve DAO Token,curve-dao-token,CRV,USD,available
+Kyber Network,kyber-network,KNC,USD,available
+Horizen,horizen,ZEN,USD,available
+MVL,mvl,MVL,USD,available
+Bitcoin Gold,bitcoin-gold,BTG,USD,available
+Lisk,lisk,LSK,USD,available
+Verge,verge,XVG,USD,available
+Fetch.ai,fetch,FET,USD,available
+Energy Web Token,energy-web-token,EWT,USD,available
+Quant,quant,QNT,USD,available
+Ankr,ankr,ANKR,USD,available
+Golem,golem-network-tokens,GLM,USD,available
+Bitpanda Ecosystem Token,bitpanda-ecosystem-token,BEST,USD,available
+Electroneum,electroneum,ETN,USD,available
+Celer Network,celer-network,CELR,USD,available
+StormX,stormx,STMX,USD,available
+Augur,augur,REP,USD,available
+Mixin,mixin,XIN,USD,available
+IoTeX,iotex,IOTX,USD,available
+Venus,venus,XVS,USD,available
+FunFair,funfair,FUN,USD,available
+Status,status,SNT,USD,available
+WAX,wax,WAXP,USD,available
+Telcoin,telcoin,TEL,USD,available
+Kin,kin,KIN,USD,available
+COTI,coti,COTI,USD,available
+Stacks,blockstack,STX,USD,available
+Kava.io,kava,KAVA,USD,available
+Polymath,polymath-network,POLY,USD,available
+Swipe,swipe,SXP,USD,available
+MaidSafeCoin,maidsafecoin,MAID,USD,available
+Civic,civic,CVC,USD,available
+TrueUSD,trueusd,TUSD,USD,available
+Band Protocol,band-protocol,BAND,USD,available
+Ardor,ardor,ARDR,USD,available
+Steem,steem,STEEM,USD,available
+Orchid,orchid,OXT,USD,available
+Aragon,aragon,ANT,USD,available
+QuarkChain,quarkchain,QKC,USD,available
+OriginTrail,origintrail,TRAC,USD,available
+Utrust,utrust,UTK,USD,available
+Serum,serum,SRM,USD,available
+MediBloc,medibloc,MED,USD,available
+Hifi Finance,mainframe,MFT,USD,available
+Storj,storj,STORJ,USD,available
+Origin Protocol,origin-protocol,OGN,USD,available
+BitShares,bitshares,BTS,USD,available
+Numeraire,numeraire,NMR,USD,available
+Komodo,komodo,KMD,USD,available
+Bitcoin Diamond,bitcoin-diamond,BCD,USD,available
+Ampleforth,ampleforth,AMPL,USD,available
+SingularityNET,singularitynet,AGI,USD,available
+Gnosis,gnosis-gno,GNO,USD,available
+Stratis,stratis,STRAX,USD,available
+Ark,ark,ARK,USD,available
+TomoChain,tomochain,TOMO,USD,available
+IRISnet,irisnet,IRIS,USD,available
+PAC Global,pac-global,PAC,USD,available
+Wanchain,wanchain,WAN,USD,available
+ABBC Coin,abbc-coin,ABBC,USD,available
+district0x,district0x,DNT,USD,available
+aelf,aelf,ELF,USD,available
+Syscoin,syscoin,SYS,USD,available
+ZB Token,zb-token,ZB,USD,available
+CyberVein,cybervein,CVT,USD,available
+iExec RLC,rlc,RLC,USD,available
+Loom Network,loom-network,LOOM,USD,available
+Haven Protocol,haven-protocol,XHV,USD,available
+Power Ledger,power-ledger,POWR,USD,available
+Unibright,unibright,UBT,USD,available
+Hellenic Coin,helleniccoin,HNC,USD,available
+Populous,populous,PPT,USD,available
+Bytom,bytom,BTM,USD,available
+AdEx Network,adx-net,ADX,USD,available
+Divi,divi,DIVI,USD,available
+Centrality,centrality,CENNZ,USD,available
+Request,request,REQ,USD,available
+EFFORCE,efforce,WOZX,USD,available
+ReddCoin,redd,RDD,USD,available
+Aion,aion,AION,USD,available
+Gas,gas,GAS,USD,available
+Elastos,elastos,ELA,USD,available
+LBRY Credits,library-credit,LBC,USD,available
+Energi,energi,NRG,USD,available
+Streamr,streamr,DATA,USD,available
+MonaCoin,monacoin,MONA,USD,available
+WazirX,wazirx,WRX,USD,available
+Gemini Dollar,gemini-dollar,GUSD,USD,available
+Metal,metal,MTL,USD,available
+Refereum,refereum,RFR,USD,available
+Selfkey,selfkey,KEY,USD,available
+SOLVE,solve,SOLVE,USD,available
+Ignis,ignis,IGNIS,USD,available
+Zenon,zenon,ZNN,USD,available
+Nimiq,nimiq,NIM,USD,available
+Waltonchain,waltonchain,WTC,USD,available
+NKN,nkn,NKN,USD,available
+DREP,drep,DREP,USD,available
+Beam,beam,BEAM,USD,available
+Bytecoin,bytecoin-bcn,BCN,USD,available
+Bluzelle,bluzelle,BLZ,USD,available
+Cartesi,cartesi,CTSI,USD,available
+Sentinel Protocol,sentinel-protocol,UPP,USD,available
+Nexus,nexus,NXS,USD,available
+KuCoin Shares,kucoin-shares,KCS,USD,available
+Firo,firo,FIRO,USD,available
+ARPA Chain,arpa-chain,ARPA,USD,available
+AirSwap,airswap,AST,USD,available
+Endor Protocol,endor-protocol,EDR,USD,available
+NULS,nuls,NULS,USD,available
+Function X,function-x,FX,USD,available
+WaykiChain,waykichain,WICC,USD,available
+PIVX,pivx,PIVX,USD,available
+RChain,rchain,REV,USD,available
+Constellation,constellation,DAG,USD,available
+Switcheo,switcheo,SWTH,USD,available
+Phoenix Global,phoenix-global,PHB,USD,available
+Dragonchain,dragonchain,DRGN,USD,available
+pNetwork,pnetwork,PNT,USD,available
+Fusion,fusion,FSN,USD,available
+Groestlcoin,groestlcoin,GRS,USD,available
+Quantstamp,quantstamp,QSP,USD,available
+Cindicator,cindicator,CND,USD,available
+FIO Protocol,fio-protocol,FIO,USD,available
+Cortex,cortex,CTXC,USD,available
+Ripio Credit Network,ripio-credit-network,RCN,USD,available
+Cocos-BCX,cocos-bcx,COCOS,USD,available
+Sport and Leisure,sport-and-leisure,SNL,USD,available
+Measurable Data Token,measurable-data-token,MDT,USD,available
+Einsteinium,einsteinium,EMC2,USD,available
+v.systems,v-systems,VSYS,USD,available
+Aeternity,aeternity,AE,USD,available
+GameCredits,gamecredits,GAME,USD,available
+Aurora,aurora,AOA,USD,available
+Zap,zap,ZAP,USD,available
+GXChain,gxchain,GXC,USD,available
+VITE,vite,VITE,USD,available
+Enzyme Finance,melon,MLN,USD,available
+LockTrip,lockchain,LOC,USD,available
+Lympo,lympo,LYM,USD,available
+STASIS EURO,stasis-euro,EURS,USD,available
+Dock,dock,DOCK,USD,available
+Kleros,kleros,PNK,USD,available
+Nebulas,nebulas-token,NAS,USD,available
+GoChain,gochain,GO,USD,available
+MCO,crypto-com,MCO,USD,available
+Navcoin,nav-coin,NAV,USD,available
+Propy,propy,PRO,USD,available
+Skycoin,skycoin,SKY,USD,available
+CasinoCoin,casinocoin,CSC,USD,available
+Dentacoin,dentacoin,DCN,USD,available
+HyperCash,hypercash,HC,USD,available
+BTU Protocol,btu-protocol,BTU,USD,available
+DMarket,dmarket,DMT,USD,available
+Mithril,mithril,MITH,USD,available
+Nxt,nxt,NXT,USD,available
+Phantasma,phantasma,SOUL,USD,available
+LATOKEN,latoken,LA,USD,available
+0Chain,0chain,ZCN,USD,available
+Steem Dollars,steem-dollars,SBD,USD,available
+Wirex Token,wirex-token,WXT,USD,available
+Flexacoin,flexacoin,FXC,USD,available
+Sentivate,sentivate,SNTVT,USD,available
+All Sports,all-sports,SOC,USD,available
+Neblio,neblio,NEBL,USD,available
+Apollo Currency,apollo-currency,APL,USD,available
+Crypterium,crpt,CRPT,USD,available
+Grin,grin,GRIN,USD,available
+Project Pai,project-pai,PAI,USD,available
+Presearch,presearch,PRE,USD,available
+Vertcoin,vertcoin,VTC,USD,available
+Wabi,wabi,WABI,USD,available
+Veritaseum,veritaseum,VERI,USD,available
+Nucleus Vision,nucleus-vision,NCASH,USD,available
+Ambrosus,amber,AMB,USD,available
+TenX,tenx,PAY,USD,available
+Raiden Network Token,raiden-network-token,RDN,USD,available
+TokenClub,tokenclub,TCT,USD,available
+BnkToTheFuture,bnktothefuture,BFT,USD,available
+Bankera,bankera,BNK,USD,available
+DigixDAO,digixdao,DGD,USD,available
+Dovu,dovu,DOV,USD,available
+#MetaHash,metahash,MHC,USD,available
+TE-FOOD,te-food,TONE,USD,available
+Gifto,gifto,GTO,USD,available
+PCHAIN,pchain,PI,USD,available
+Circuits of Value,circuits-of-value,COVAL,USD,available
+Credits,credits,CS,USD,available
+AppCoins,appcoins,APPC,USD,available
+Bread,bread,BRD,USD,available
+QASH,qash,QASH,USD,available
+Metronome,metronome,MET,USD,available
+Genesis Vision,genesis-vision,GVT,USD,available
+OAX,oax,OAX,USD,available
+DeepBrain Chain,deepbrain-chain,DBC,USD,available
+Loki,loki,LOKI,USD,available
+High Performance Blockchain,high-performance-blockchain,HPB,USD,available
+BABB,babb,BAX,USD,available
+Dero,dero,DERO,USD,available
+POA,poa,POA,USD,available
+SIRIN LABS Token,sirin-labs-token,SRN,USD,available
+Digitex Futures,digitex-futures,DGTX,USD,available
+QLC Chain,qlink,QLC,USD,available
+LGO Token,lgo-token,LGO,USD,available
+WePower,wepower,WPR,USD,available
+Blox,blox,CDT,USD,available
+PumaPay,pumapay,PMA,USD,available
+Obyte,obyte,GBYTE,USD,available
+Dynamic,dynamic,DYN,USD,available
+XYO,xyo,XYO,USD,available
+Blocknet,blocknet,BLOCK,USD,available
+Buggyra Coin Zero,buggyra-coin-zero,BCZERO,USD,available
+Namecoin,namecoin,NMC,USD,available
+Moeda Loyalty Points,moeda-loyalty-points,MDA,USD,available
+Matrix AI Network,matrix-ai-network,MAN,USD,available
+SALT,salt,SALT,USD,available
+Quantum Resistant Ledger,quantum-resistant-ledger,QRL,USD,available
+Cardstack,cardstack,CARD,USD,available
+CyberMiles,cybermiles,CMT,USD,available
+TrueChain,truechain,TRUE,USD,available
+Egretia,egretia,EGT,USD,available
+Metaverse ETP,metaverse,ETP,USD,available
+Factom,factom,FCT,USD,available
+Maximine Coin,maximine-coin,MXM,USD,available
+Hydro Protocol,hydro-protocol,HOT,USD,available
+Viacoin,viacoin,VIA,USD,available
+Everex,everex,EVX,USD,available
+YOYOW,yoyow,YOYOW,USD,available
+Viberate,viberate,VIB,USD,available
+Tachyon Protocol,tachyon-protocol,IPX,USD,available
+Agrello,agrello-delta,DLT,USD,available
+MediShares,medishares,MDS,USD,available
+Ruff,ruff,RUFF,USD,available
+FLO,flo,FLO,USD,available
+ProximaX,proximax,XPX,USD,available
+Monetha,monetha,MTH,USD,available
+Achain,achain,ACT,USD,available
+SONM,sonm,SNM,USD,available
+SingularDTV,singulardtv,SNGLS,USD,available
+DigitalNote,digitalnote,XDN,USD,available
+Arcblock,arcblock,ABT,USD,available
+PRIZM,prizm,PZM,USD,available
+Ubiq,ubiq,UBQ,USD,available
+PressOne,pressone,PRS,USD,available
+BLOCKv,blockv,VEE,USD,available
+B2BX,b2bx,B2B,USD,available
+DATA,data,DTA,USD,available
+Peercoin,peercoin,PPC,USD,available
+IQeon,iqeon,IQN,USD,available
+Banano,banano,BAN,USD,available
+THEKEY,thekey,TKY,USD,available
+eBoost,eboostcoin,EBST,USD,available
+Santiment Network Token,santiment,SAN,USD,available
+ROOBEE,roobee,ROOBEE,USD,available
+Phore,phore,PHR,USD,available
+Genaro Network,genaro-network,GNX,USD,available
+SmartMesh,smartmesh,SMT,USD,available
+Essentia,essentia,ESS,USD,available
+PlatonCoin,platoncoin,PLTC,USD,available
+Callisto Network,callisto-network,CLO,USD,available
+OneLedger,oneledger,OLT,USD,available
+Internxt,internxt,INXT,USD,available
+Bibox Token,bibox-token,BIX,USD,available
+Restart Energy MWAT,restart-energy-mwat,MWAT,USD,available
+Stealthcoin,stealthcoin,XST,USD,available
+IoT Chain,iot-chain,ITC,USD,available
+Seele-N,seele,SEELE,USD,available
+SwftCoin,swftcoin,SWFTC,USD,available
+Monolith,monolith,TKN,USD,available
+Peculium,peculium,PCL,USD,available
+Odyssey,odyssey,OCN,USD,available
+Time New Bank,time-new-bank,TNB,USD,available
+DAOstack,daostack,GEN,USD,available
+Pillar,pillar,PLR,USD,available
+Covesting,covesting,COV,USD,available
+carVertical,carvertical,CV,USD,available
+Qubitica,qubitica,QBIT,USD,available
+SmartCash,smartcash,SMART,USD,available
+Burst,burst,BURST,USD,available
+Spectre.ai Dividend Token,spectre-dividend,SXDT,USD,available
+Tokenomy,tokenomy,TEN,USD,available
+SpaceChain,spacechain,SPC,USD,available
+UCA Coin,uca-coin,UCA,USD,available
+Particl,particl,PART,USD,available
+Mobius,mobius,MOBI,USD,available
+Wings,wings,WINGS,USD,available
+Content Neutrality Network,content-neutrality-network,CNN,USD,available
+eBitcoin,ebtcnew,EBTC,USD,available
+Feathercoin,feathercoin,FTC,USD,available
+Aeon,aeon,AEON,USD,available
+Lightning Bitcoin,lightning-bitcoin,LBTC,USD,available
+VIBE,vibe,VIBE,USD,available
+Opacity,opacity,OPCT,USD,available
+CPChain,cpchain,CPC,USD,available
+PotCoin,potcoin,POT,USD,available
+Lamden,lamden,TAU,USD,available
+Mysterium,mysterium,MYST,USD,available
+Gulden,gulden,NLG,USD,available
+Skrumble Network,skrumble-network,SKM,USD,available
+Credo,credo,CREDO,USD,available
+DOC.COM,doc-com,MTC,USD,available
+ERC20,erc-20,ERC20,USD,available
+EDUCare,educare,EKT,USD,available
+Game.com,game,GTC,USD,available
+Remme,remme,REM,USD,available
+SunContract,suncontract,SNC,USD,available
+Cred,libra-credit,LBA,USD,available
+INT,int-chain,INT,USD,available
+Myriad,myriad,XMY,USD,available
+I/O Coin,iocoin,IOC,USD,available
+ContentBox,contentbox,BOX,USD,available
+LiteDoge,litedoge,LDOGE,USD,available
+Ivy,ivy,IVY,USD,available
+Cappasity,cappasity,CAPP,USD,available
+Litecoin Cash,litecoin-cash,LCC,USD,available
+Swarm,swarm-network,SWM,USD,available
+DEX,dex,DEX,USD,available
+AXPR,axpr-token,AXPR,USD,available
+Datum,datum,DAT,USD,available
+Investcoin,investcoin,INVC,USD,available
+Vexanium,vexanium,VEX,USD,available
+CryptoPing,cryptoping,PING,USD,available
+DECOIN,decoin,DTEP,USD,available
+Crown,crown,CRW,USD,available
+Acute Angle Cloud,acute-angle-cloud,AAC,USD,available
+ChatCoin,chatcoin,CHAT,USD,available
+BitGreen,bitgreen,BITG,USD,available
+YEE,yee,YEE,USD,available
+Omni,omni,OMNI,USD,available
+BlackCoin,blackcoin,BLK,USD,available
+ToaCoin,toacoin,TOA,USD,available
+EXRNchain,exrnchain,EXRN,USD,available
+KickToken,kick-token,KICK,USD,available
+Gridcoin,gridcoin,GRC,USD,available
+QunQun,qunqun,QUN,USD,available
+OKCash,okcash,OK,USD,available
+CannabisCoin,cannabiscoin,CANN,USD,available
+DAEX,daex,DAX,USD,available
+DMM: Governance,dmm-governance,DMG,USD,available
+Cube,cube,AUTO,USD,available
+Add.xyz,add-xyz,PLT,USD,available
+Substratum,substratum,SUB,USD,available
+Pinkcoin,pinkcoin,PINK,USD,available
+Alphacat,alphacat,ACAT,USD,available
+CoTrader,cotrader,COT,USD,available
+BitCapitalVendor,bitcapitalvendor,BCV,USD,available
+DeepOnion,deeponion,ONION,USD,available
+Novacoin,novacoin,NVC,USD,available
+Primecoin,primecoin,XPM,USD,available
+OneRoot Network,oneroot-network,RNT,USD,available
+Energo,energo,TSL,USD,available
+Medicalchain,medical-chain,MTN,USD,available
+Rialto,rialto,XRL,USD,available
+Tierion,tierion,TNT,USD,available
+VeriCoin,vericoin,VRC,USD,available
+BitcoinZ,bitcoinz,BTCZ,USD,available
+Enigma,enigma,ENG,USD,available
+MyWish,mywish,WISH,USD,available
+Blackmoon,blackmoon,BMC,USD,available
+Patientory,patientory,PTOY,USD,available
+Breezecoin,breezecoin,BRZE,USD,available
+LuckChain,luckchain,BASH,USD,available
+Quark,quark,QRK,USD,available
+Pascal,pascal,PASC,USD,available
+Plair,plair-life,PLA,USD,available
+Curecoin,curecoin,CURE,USD,available
+MobileGo,mobilego,MGO,USD,available
+Denarius,denarius-d,D,USD,available
+Dimecoin,dimecoin,DIME,USD,available
+IHT Real Estate Protocol,iht-real-estate-protocol,IHT,USD,available
+CommerceBlock,commerceblock,CBT,USD,available
+NuBits,nubits,USNBT,USD,available
+Expanse,expanse,EXP,USD,available
+Eternity,eternity,ENT,USD,available
+AI Doctor,aidoc,AIDOC,USD,available
+HempCoin,hempcoin,THC,USD,available
+HiCoin,hicoin,XHI,USD,available
+CEEK VR,ceek-vr,CEEK,USD,available
+ZClassic,zclassic,ZCL,USD,available
+TransferCoin,transfercoin,TX,USD,available
+LUXCoin,luxcoin,LUX,USD,available
+Rise,rise,RISE,USD,available
+Asch,asch,XAS,USD,available
+PayPie,paypie,PPP,USD,available
+DAPS Coin,daps-coin,DAPS,USD,available
+Giga Watt Token,giga-watt-token,WTT,USD,available
+Bean Cash,bean-cash,BITB,USD,available
+Primas,primas,PST,USD,available
+Bismuth,bismuth,BIS,USD,available
+LNX Protocol,lnx-protocol,LNX,USD,available
+MonetaryUnit,monetaryunit,MUE,USD,available
+Sharder,sharder,SS,USD,available
+Waves Community Token,waves-community-token,WCT,USD,available
+Zero,zero,ZER,USD,available
+Bitcoin Private,bitcoin-private,BTCP,USD,available
+eosDAC,eosdac,EOSDAC,USD,available
+Aventus,aventus,AVT,USD,available
+TrueFlip,trueflip,TFL,USD,available
+ATLANT,atlant,ATL,USD,available
+FujiCoin,fujicoin,FJC,USD,available
+BitBoost,bitboost,BBT,USD,available
+Banca,banca,BANCA,USD,available
+Renewable Electronic Energy Coin,electronic-energy-coin,REEC,USD,available
+Xaurum,xaurum,XAUR,USD,available
+Hedge,hedge,HDG,USD,available
+CoinFi,coinfi,COFI,USD,available
+0xBitcoin,0xbtc,0xBTC,USD,available
+CloakCoin,cloakcoin,CLOAK,USD,available
+XTRABYTES,xtrabytes,XBY,USD,available
+EDC Blockchain,edc-blockchain,EDC,USD,available
+TrezarCoin,trezarcoin,TZC,USD,available
+Capricoin+,capricoin,CPS,USD,available
+TraDove B2BCoin,b2bcoin,BBC,USD,available
+Humaniq,humaniq,HMQ,USD,available
+Bottos,bottos,BTO,USD,available
+Maecenas,maecenas,ART,USD,available
+Mercury,mercury,MER,USD,available
+Lunyr,lunyr,LUN,USD,available
+Megacoin,megacoin,MEC,USD,available
+GeoCoin,geocoin,GEO,USD,available
+FNKOS,fnkos,FNKOS,USD,available
+Adshares,adshares,ADS,USD,available
+REAL,real,REAL,USD,available
+Ixcoin,ixcoin,IXC,USD,available
+ZrCoin,zrcoin,ZRC,USD,available
+Carboncoin,carboncoin,CARBON,USD,available
+The ChampCoin,the-champcoin,TCC,USD,available
+GPU Coin,gpu-coin,GPU,USD,available
+Dragon Coins,dragon-coins,DRG,USD,available
+GlobalBoost-Y,globalboost-y,BSTY,USD,available
+Etherparty,etherparty,FUEL,USD,available
+Bitcoin Plus,bitcoin-plus,XBC,USD,available
+Pakcoin,pakcoin,PAK,USD,available
+DomRaider,domraider,DRT,USD,available
+Trollcoin,trollcoin,TROLL,USD,available
+Freicoin,freicoin,FRC,USD,available
+Pandacoin,pandacoin-pnd,PND,USD,available
+adToken,adtoken,ADT,USD,available
+Boolberry,boolberry,BBR,USD,available
+Flixxo,flixxo,FLIXX,USD,available
+DECENT,decent,DCT,USD,available
+Brickblock,brickblock,BBK,USD,available
+Playkey,playkey,PKT,USD,available
+Cosmo Coin,cosmo-coin,COSM,USD,available
+LanaCoin,lanacoin,LANA,USD,available
+IXT,ixledger,IXT,USD,available
+Bitcoin Atom,bitcoin-atom,BCA,USD,available
+ShipChain,shipchain,SHIP,USD,available
+EuropeCoin,europecoin,ERC,USD,available
+Stox,stox,STX,USD,available
+Bounty0x,bounty0x,BNTY,USD,available
+Scry.info,scryinfo,DDD,USD,available
+TokenPay,tokenpay,TPAY,USD,available
+Neurotoken,neurotoken,NTK,USD,available
+DDKoin,ddkoin,DDK,USD,available
+SIBCoin,sibcoin,SIB,USD,available
+FuzeX,fuzex,FXT,USD,available
+DubaiCoin,dubaicoin-dbix,DBIX,USD,available
+Electrify.Asia,electrifyasia,ELEC,USD,available
+HitCoin,hitcoin,HTC,USD,available
+Bezant,bezant,BZNT,USD,available
+Delphy,delphy,DPY,USD,available
+ExclusiveCoin,exclusivecoin,EXCL,USD,available
+Orbitcoin,orbitcoin,ORB,USD,available
+Ink,ink,INK,USD,available
+Indorse Token,indorse-token,IND,USD,available
+Ormeus Coin,ormeus-coin,ORMEUS,USD,available
+Shorty,shorty,SHORTY,USD,available
+Edgeless,edgeless,EDG,USD,available
+Zeusshield,zeusshield,ZSC,USD,available
+Winco,winco,WCO,USD,available
+Hiveterminal Token,hiveterminal-token,HVN,USD,available
+Hexx,hexx,HXX,USD,available
+Blockmason Credit Protocol,blockmason,BCPT,USD,available
+Colossuscoin V2,colossuscoin-v2,CV2,USD,available
+Chronobank,chronobank,TIME,USD,available
+Trinity Network Credit,trinity-network-credit,TNC,USD,available
+BitDegree,bitdegree,BDG,USD,available
+Bezop,bezop,BEZ,USD,available
+Rentberry,rentberry,BERRY,USD,available
+EventChain,eventchain,EVC,USD,available
+MetalCoin,metalcoin,METAL,USD,available
+Hacken,hacken,HKN,USD,available
+Ecobit,ecobit,ECOB,USD,available
+FlypMe,flypme,FYP,USD,available
+Lendingblock,lendingblock,LND,USD,available
+Bullion,bullion,CBX,USD,available
+Friendz,friends,FDZ,USD,available
+Sakura Bloom,sakura-bloom,SKB,USD,available
+GoldMint,goldmint,MNTP,USD,available
+Blue Protocol,ethereum-blue,BLUE,USD,available
+MEXC Token,mexc-token,MEXC,USD,available
+ATMChain,attention-token-of-media,ATM,USD,available
+Internet of People,internet-of-people,IOP,USD,available
+Po.et,poet,POE,USD,available
+BZEdge,bzedge,BZE,USD,available
+X8X Token,x8x-token,X8X,USD,available
+HelloGold,hellogold,HGT,USD,available
+HeroNode,heronode,HER,USD,available
+Pesetacoin,pesetacoin,PTC,USD,available
+Zennies,zennies,ZENI,USD,available
+Ryo Currency,ryo-currency,RYO,USD,available
+AudioCoin,audiocoin,ADC,USD,available
+Merebel,merebel,MERI,USD,available
+Blocktix,blocktix,TIX,USD,available
+Primalbase Token,primalbase,PBT,USD,available
+MintMe.com Coin,mintme-com-coin,MINTME,USD,available
+Scorum Coins,scorum-coins,SCR,USD,available
+ChessCoin,chesscoin,CHESS,USD,available
+Dropil,dropil,DROP,USD,available
+MyBit,mybit,MYB,USD,available
+Deutsche eMark,deutsche-emark,DEM,USD,available
+Maxcoin,maxcoin,MAX,USD,available
+CoinJanitor,coin-janitor,JAN,USD,available
+BUZZCoin,buzzcoin,BUZZ,USD,available
+Ethereum Meta,ethereum-meta,ETHM,USD,available
+DreamTeam Token,dreamteam-token,DREAM,USD,available
+Zeepin,zeepin,ZPT,USD,available
+Qbao,qbao,QBT,USD,available
+Innova,innova,INN,USD,available
+Shadow Token,shadow-token,SHDW,USD,available
+GoNetwork,gonetwork,GOT,USD,available
+ShadowCash,shadowcash,SDC,USD,available
+Neutron,neutron,NTRN,USD,available
+Startcoin,startcoin,START,USD,available
+Synergy,synergy,SNRG,USD,available
+Opus,opus,OPT,USD,available
+SwagBucks,swagbucks,BUCKS,USD,available
+Streamity,streamity,STM,USD,available
+Cryptonite,cryptonite,XCN,USD,available
+Swap,swap,XWP,USD,available
+Fortuna,fortuna,FOTA,USD,available
+SHIELD,shield-xsh,XSH,USD,available
+GoByte,gobyte,GBX,USD,available
+Netko,netko,NETKO,USD,available
+InsaneCoin,insanecoin-insn,INSN,USD,available
+EncryptoTel [WAVES],encryptotel,ETT,USD,available
+Swing,swing,SWING,USD,available
+Digitalcoin,digitalcoin,DGC,USD,available
+WayGuide,wayguide,WAY,USD,available
+Energycoin,energycoin,ENRG,USD,available
+NANJCOIN,nanjcoin,NANJ,USD,available
+ION,ion,ION,USD,available
+Swarm City,swarm-city,SWT,USD,available
+Bitstar,bitstar,BITS,USD,available
+Graft,graft,GRFT,USD,available
+Starbase,starbase,STAR,USD,available
+OracleChain,oraclechain,OCT,USD,available
+Terracoin,terracoin,TRC,USD,available
+BlueCoin,bluecoin,BLU,USD,available
+InvestFeed,investfeed,IFT,USD,available
+Aston,aston,ATX,USD,available
+Aeron,aeron,ARNX,USD,available
+Ellaism,ellaism,ELLA,USD,available
+BitTokens,bittokens,BXT,USD,available
+iEthereum,iethereum,IETH,USD,available
+CryptoCarbon,cryptocarbon,CCRB,USD,available
+2GIVE,2give,2GIVE,USD,available
+Happycoin,happycoin,HPC,USD,available
+Silverway,silverway,SLV,USD,available
+SafeInsure,safeinsure,SINS,USD,available
+GCN Coin,gcn-coin,GCN,USD,available
+WMCoin,wmcoin,WMC,USD,available
+Quantis Network,quantis,QUAN,USD,available
+SproutsExtreme,sproutsextreme,SPEX,USD,available
+DopeCoin,dopecoin,DOPE,USD,available
+Aigang,aigang,AIX,USD,available
+IslaCoin,islacoin,ISL,USD,available
+Hackspace Capital,hackspace-capital,HAC,USD,available
+Jetcoin,jetcoin,JET,USD,available
+Kobocoin,kobocoin,KOBO,USD,available
+Silent Notary,silent-notary,SNTR,USD,available
+MicroMoney,micromoney,AMM,USD,available
+TagCoin,tagcoin,TAG,USD,available
+Coin Lion,coin-lion,LION,USD,available
+Pirl,pirl,PIRL,USD,available
+Chronologic,chronologic,DAY,USD,available
+Cobinhood,cobinhood,COB,USD,available
+Tattoocoin (Standard Edition),tattoocoin,TSE,USD,available
+Cryptojacks,cryptojacks,CJ,USD,available
+Photon,photon,PHO,USD,available
+Motocoin,motocoin,MOTO,USD,available
+SRCOIN,srcoin,SRCOIN,USD,available
+Ties.DB,tiesdb,TIE,USD,available
+Leadcoin,leadcoin,LDC,USD,available
+Nicash,nicash,NICASH,USD,available
+Opal,opal,OPAL,USD,available
+ParallelCoin,parallelcoin,DUO,USD,available
+Bitcurrency,bitcurrency,BTCR,USD,available
+AquariusCoin,aquariuscoin,ARCO,USD,available
+FoldingCoin,foldingcoin,FLDC,USD,available
+SkinCoin,skincoin,SKIN,USD,available
+Mao Zedong,mao-zedong,MAO,USD,available
+REOSC,reosc,REOSC,USD,available
+imbrex,imbrex,REX,USD,available
+GINcoin,gincoin,GIN,USD,available
+Bitcloud,bitcloud,BTDX,USD,available
+Magi,magi,XMG,USD,available
+OptiToken,optitoken,OPTI,USD,available
+Emerald Crypto,emerald,EMD,USD,available
+Guncoin,guncoin,GUN,USD,available
+Storiqa,storiqa,STQ,USD,available
+Proton Token,proton-token,PTT,USD,available
+Dynamite,dynamite,DYNMT,USD,available
+DraftCoin,draftcoin,DFT,USD,available
+Elacoin,elacoin,ELC,USD,available
+KekCoin,kekcoin,KEK,USD,available
+Bitz,bitz,BITZ,USD,available
+SuperCoin,supercoin,SUPER,USD,available
+vSlice,vslice,VSL,USD,available
+PosEx,posex,PEX,USD,available
+PoSW Coin,posw-coin,POSW,USD,available
+EvenCoin,evencoin,EVN,USD,available
+Adzcoin,adzcoin,ADZ,USD,available
+BitBar,bitbar,BTB,USD,available
+Truegame,tgame,TGAME,USD,available
+Evil Coin,evil-coin,EVIL,USD,available
+Crowd Machine,crowd-machine,CMCT,USD,available
+Verify,verify,CRED,USD,available
+Worldcore,worldcore,WRC,USD,available
+Nasdacoin,nasdacoin,NSD,USD,available
+Monkey Project,monkey-project,MONK,USD,available
+Bata,bata,BTA,USD,available
+KushCoin,kushcoin,KUSH,USD,available
+Yacoin,yacoin,YAC,USD,available
+PopularCoin,popularcoin,POP,USD,available
+OctoCoin,octocoin,888,USD,available
+VULCANO,vulcano,VULC,USD,available
+TEAM (TokenStars),tokenstars,TEAM,USD,available
+Sling,sling,SLING,USD,available
+Firecoin,firecoin,FIRE,USD,available
+Crave,crave,CRAVE,USD,available
+BitWhite,bitwhite,BTW,USD,available
+Litecoin Plus,litecoin-plus,LCP,USD,available
+MojoCoin,mojocoin,MOJO,USD,available
+Rimbit,rimbit,RBT,USD,available
+Mineum,mineum,MNM,USD,available
+Joulecoin,joulecoin,XJO,USD,available
+BlockCAT,blockcat,CAT,USD,available
+Zetacoin,zetacoin,ZET,USD,available
+Bitcoin Zero,bitcoin-zero,BZX,USD,available
+Franko,franko,FRK,USD,available
+Bitcoin Interest,bitcoin-interest,BCI,USD,available
+Bolivarcoin,bolivarcoin,BOLI,USD,available
+Bela,belacoin,BELA,USD,available
+GameBet Coin,gamebet-coin,GBT,USD,available
+Ultimate Secure Cash,ultimate-secure-cash,USC,USD,available
+Rubies,rubies,RBIES,USD,available
+FirstCoin,firstcoin,FRST,USD,available
+Eroscoin,eroscoin,ERO,USD,available
+Kurrent,kurrent,KURT,USD,available
+Ratecoin,ratecoin,XRA,USD,available
+Unitus,unitus,UIS,USD,available
+Xios,xios,XIOS,USD,available
+Prime-Ex Perpetual,prime-ex-perpetual,PEXT,USD,available
+PX,px,PX,USD,available
+SteepCoin,steepcoin,STEEP,USD,available
+BillaryCoin,billarycoin,BLRY,USD,available
+Universe,universe,UNI,USD,available
+Unify,unify,UNIFY,USD,available
+GuccioneCoin,guccionecoin,GCC,USD,available
+Privatix,privatix,PRIX,USD,available
+Bitcoin Red,bitcoin-red,BTCRED,USD,available
+Mchain,mchain,MAR,USD,available
+Coin2.1,coin2-1,C2,USD,available
+Bitzeny,bitzeny,ZNY,USD,available
+Rupee,rupee,RUP,USD,available
+BeaverCoin,beavercoin,BVC,USD,available
+BERNcash,berncash,BERN,USD,available
+Spots,spots,SPT,USD,available
+Niobio Cash,niobio-cash,NBR,USD,available
+iTicoin,iticoin,ITI,USD,available
+WARP,warp,WARP,USD,available
+Universal Currency,universal-currency,UNIT,USD,available
+LiteBar,litebar,LTB,USD,available
+ATBCoin,atbcoin,ATB,USD,available
+PureVidz,purevidz,VIDZ,USD,available
+GlobalToken,globaltoken,GLT,USD,available
+Syndicate,syndicate,SYNX,USD,available
+SmartCoin,smartcoin,SMC,USD,available
+ELTCOIN,eltcoin,ELTCOIN,USD,available
+Paragon,paragon,PRG,USD,available
+Miners' Reward Token,miners-reward-token,MRT,USD,available
+GoldBlocks,goldblocks,GB,USD,available
+Suretly,suretly,SUR,USD,available
+Onix,onix,ONX,USD,available
+ICOBID,icobid,ICOB,USD,available
+Global Currency Reserve,global-currency-reserve,GCR,USD,available
+Ethereum Cash,ethereumcash,ECASH,USD,available
+Digital Money Bits,digital-money-bits,DMB,USD,available
+Blakecoin,blakecoin,BLC,USD,available
+Acoin,acoin,ACOIN,USD,available
+GlobalCoin,globalcoin,GLCn,USD,available
+Theresa May Coin,theresa-may-coin,MAY,USD,available
+TrumpCoin,trumpcoin,TRUMP,USD,available
+Bitradio,bitradio,BRO,USD,available
+Shilling,shilling,SH,USD,available
+PostCoin,postcoin,POST,USD,available
+Metal Music Coin,metal-music-coin,MTLMC3,USD,available
+TEKcoin,tekcoin,TEK,USD,available
+Cream,cream,CRM,USD,available
+VIP Tokens,vip-tokens,VIP,USD,available
+Zurcoin,zurcoin,ZUR,USD,available
+Uro,uro,URO,USD,available
+Atonomi,atonomi,ATMI,USD,available
+FuzzBalls,fuzzballs,FUZZ,USD,available
+Regalcoin,regalcoin,REC,USD,available
+Wild Crypto,wild-crypto,WILD,USD,available
+Debitcoin,debitcoin,DBTC,USD,available
+MindCoin,mindcoin,MND,USD,available
+Dreamcoin,dreamcoin,DRM,USD,available
+Centurion,centurion,CNT,USD,available
+Moin,moin,MOIN,USD,available
+CryCash,crycash,CRC,USD,available
+Unrealcoin,unrealcoin,URC,USD,available
+XGOX,xgox,XGOX,USD,available
+Signatum,signatum,SIGT,USD,available
+iBTC,ibtc,IBTC,USD,available
+EDRCoin,edrcoin,EDRC,USD,available
+Beatcoin,beatcoin,XBTS,USD,available
+GeyserCoin,geysercoin,GSR,USD,available
+Sativacoin,sativacoin,STV,USD,available
+TOKYO,tokyo,TOKC,USD,available
+Influxcoin,influxcoin,INFX,USD,available
+Ride My Car,ride-my-car,RIDE,USD,available
+Orlycoin,orlycoin,ORLY,USD,available
+PayCoin,paycoin2,XPY,USD,available
+Save and Gain,save-and-gain,SANDG,USD,available
+Jewels,jewels,JWL,USD,available
+Braincoin,braincoin,BRAIN,USD,available
+LetItRide,letitride,LIR,USD,available
+ParkByte,parkbyte,PKB,USD,available
+GoldPieces,goldpieces,GP,USD,available
+MustangCoin,mustangcoin,MST,USD,available
+AmsterdamCoin,amsterdamcoin,AMS,USD,available
+PayCon,paycon,CON,USD,available
+PRiVCY,privcy,PRIV,USD,available
+X-Coin,x-coin,XCO,USD,available
+BitRent,bitrent,RNTB,USD,available
+Matchpool,guppy,GUP,USD,available
+RonPaulCoin,ronpaulcoin,RPC,USD,available
+MarteXcoin,martexcoin,MXT,USD,available
+Elementrem,elementrem,ELE,USD,available
+PIECoin,piecoin,PIE,USD,available
+DNotes,dnotes,NOTE,USD,available
+ARBITRAGE,arbitrage,ARB,USD,available
+SpreadCoin,spreadcoin,SPR,USD,available
+Zonecoin,zonecoin,ZNE,USD,available
+BowsCoin,bowscoin,BSC,USD,available
+Californium,californium,CF,USD,available
+ARbit,arbit,ARB,USD,available
+Thore Cash,thore-cash,TCH,USD,available
+OsmiumCoin,osmiumcoin,OS76,USD,available
+JobsCoin,jobscoin,JOBS,USD,available
+Bitcoin 21,bitcoin-21,XBTC21,USD,available
+Desire,desire,DSR,USD,available
+Visio,visio,VISIO,USD,available
+SydPak,sydpak,SDP,USD,available
+Xonecoin,xonecoin,XOC,USD,available
+Zayedcoin,zayedcoin,ZYD,USD,available
+ImpulseCoin,impulsecoin,IMPS,USD,available
+BROTHER,brat,BRAT,USD,available
+CrevaCoin,crevacoin,CREVA,USD,available
+Rupaya,rupaya,RUPX,USD,available
+Quebecoin,quebecoin,QBC,USD,available
+HOdlcoin,hodlcoin,HODL,USD,available
+SongCoin,songcoin,SONG,USD,available
+Titcoin,titcoin,TIT,USD,available
+Destiny,destiny,DES,USD,available
+Taler Coin,talercoin,TLR,USD,available
+Litecred,litecred,LTCR,USD,available
+EquiTrader,equitrader,EQT,USD,available
+Dollarcoin,dollarcoin,DLC,USD,available
+BitCoal,bitcoal,COAL,USD,available
+SpeedCash,speedcash,SCS,USD,available
+Eurocoin,eurocoin,EUC,USD,available
+Open Trading Network,open-trading-network,OTN,USD,available
+Cannation,cannation,CNNC,USD,available
+Prime-XI,prime-xi,PXI,USD,available
+MiloCoin,milocoin,MILO,USD,available
+LiteBitcoin,litebitcoin,LBTC,USD,available
+Cabbage,cabbage,CAB,USD,available
+TajCoin,tajcoin,TAJ,USD,available
+RSGPcoin,rsgpcoin,RSGP,USD,available
+Veltor,veltor,VLT,USD,available
+NevaCoin,nevacoin,NEVA,USD,available
+Luna Coin,luna-coin,LUNA,USD,available
+VectorAI,vector,VEC2,USD,available
+JavaScript Token,javascript-token,JS,USD,available
+High Voltage,high-voltage,HVCO,USD,available
+Bulleon,bulleon,BUL,USD,available
+LiteCoin Ultra,litecoin-ultra,LTCU,USD,available
+Project-X,project-x,NANOX,USD,available
+PLNcoin,plncoin,PLNC,USD,available
+Bitvolt,bitvolt,VOLT,USD,available
+Independent Money System,independent-money-system,IMS,USD,available
+PlatinumBAR,platinumbar,XPTX,USD,available
+BenjiRolls,benjirolls,BENJI,USD,available
+Paypex,paypex,PAYX,USD,available
+Dalecoin,dalecoin,DALC,USD,available
+BriaCoin,briacoin,BRIA,USD,available
+WomenCoin,women,WOMEN,USD,available
+Dash Green,dash-green,DASHG,USD,available
+Wild Beast Block,wild-beast-block,WBB,USD,available
+Peerguess,guess,GUESS,USD,available
+EcoCoin,ecocoin,ECO,USD,available
+Crystal Clear ,crystal-clear,CCT,USD,available
+Comet,comet,CMT,USD,available
+SONO,altcommunity-coin,SONO,USD,available
+NodeCoin,nodecoin,NODC,USD,available
+iBank,ibank,IBANK,USD,available
+Coinonat,coinonat,CXT,USD,available
+SocialCoin,socialcoin-socc,SOCC,USD,available
+Fintab,fintab,FNTB,USD,available
+RouletteToken,roulettetoken,RLT,USD,available
+Ccore,ccore,CCO,USD,available
+Iconic,iconic,ICON,USD,available
+Experience Points,experience-points,XP,USD,available
+VapersCoin,vaperscoin,VPRC,USD,available
+PonziCoin,ponzicoin,PONZI,USD,available
+Argus,argus,ARGUS,USD,available
+Concoin,concoin,CONX,USD,available
+ArtByte,artbyte,ABY,USD,available
+Helpico,helpico,HELP,USD,available
+HarmonyCoin,harmonycoin-hmc,HMC,USD,available
+X2,x2,X2,USD,available
+CRYPTO20,c20,C20,USD,available
+RON,ron,RON,USD,available
+Aces,aces,ACES,USD,available
+ALQO,alqo,XLQ,USD,available
+BUMO,bumo,BU,USD,available
+DEEX,deex,DEEX,USD,available
+FOIN,foin,FOIN,USD,available
+Kala,kala,KALA,USD,available
+LIZA,liza,LIZA,USD,available
+MOAC,moac,MOAC,USD,available
+NAGA,naga,NGC,USD,available
+ODEM,odem,ODE,USD,available
+Veggie,vegi,VEGI,USD,available
+WiBX,wibx,WBX,USD,available
+Axiom,axiom,AXIOM,USD,available
+Clams,clams,CLAM,USD,available
+Dashs,dashs,DASHS,USD,available
+Fidyo,fidyo,FIDYO,USD,available
+Flash,flash,FLASH,USD,available
+Hydro,hydro,HYDRO,USD,available
+Lykke,lykke,LKK,USD,available
+MMXVI,mmxvi,MMXVI,USD,available
+SaluS,salus,SLS,USD,available
+Tesra,tesra,TSR,USD,available
+BioBar,biobar,BIOB,USD,available
+Bubble,bubble,BUB,USD,available
+Change,change,CAG,USD,available
+ECC,eccoin,ECC,USD,available
+Francs,francs,FRN,USD,available
+Maggie,maggie,MAG,USD,available
+Nectar,nectar,NEC,USD,available
+netBit,netbit,NBIT,USD,available
+Sphere,sphere,SPHR,USD,available
+Wagerr,wagerr,WGR,USD,available
+XDE II,xde-ii,XDE2,USD,available
+BitCore,bitcore,BTX,USD,available
+BMChain,bmchain,BMT,USD,available
+BTCMoon,btcmoon,BTCM,USD,available
+Electra,electra,ECA,USD,available
+LKRCoin,lkrcoin,LKRc,USD,available
+Moneta,moneta2,MONETA,USD,available
+Neumark,neumark,NEU,USD,available
+Omicron,omicron,OMC,USD,available
+Sexcoin,sexcoin,SXC,USD,available
+United Traders Token,uttoken,UTT,USD,available
+Bastonet,bastonet,BSN,USD,available
+BitTube,bit-tube,TUBE,USD,available
+BitcoinX,bitcoinx,BCX,USD,available
+BlockCDN,blockcdn,BCDN,USD,available
+ClubCoin,clubcoin,CLUB,USD,available
+DarkLisk,darklisk,DISK,USD,available
+Etheroll,etheroll,DICE,USD,available
+Fazzcoin,fazzcoin,FAZZ,USD,available
+MarxCoin,marxcoin,MARX,USD,available
+PeepCoin,peepcoin,PCN,USD,available
+Polybius,polybius,PLBT,USD,available
+Quotient,quotient,XQN,USD,available
+RubleBit,rublebit,RUBIT,USD,available
+Rubycoin,rubycoin,RBY,USD,available
+SegWit2x,segwit2x,B2X,USD,available
+TopChain,topchain,TOPC,USD,available
+Universa,universa,UTNP,USD,available
+Voyacoin,voyacoin,VOYA,USD,available
+Zeitcoin,zeitcoin,ZEIT,USD,available
+AgaveCoin,agavecoin,AGVC,USD,available
+BNS Token,bns-token,BNS,USD,available
+CanYaCoin,canyacoin,CAN,USD,available
+COMSA [ETH],comsa-eth,CMS,USD,available
+EncrypGen,encrypgen,DNA,USD,available
+KashhCoin,kashhcoin,KASHH,USD,available
+Lambo Coin,lambocoin,LAMBO,USD,available
+RoyalCoin,royalcoin,ROYAL,USD,available
+ShellCoin,shellcoin,SHELL,USD,available
+SwapToken,swaptoken,TOKEN,USD,available
+ThoreNext,thorenext,THX,USD,available
+Auroracoin,auroracoin,AUR,USD,available
+Authorship,authorship,ATS,USD,available
+AvatarCoin,avatarcoin,AV,USD,available
+BlazerCoin,blazercoin,BLAZR,USD,available
+BlockStamp,blockstamp,BST,USD,available
+ColossusXT,colossusxt,COLX,USD,available
+FirstBlood,firstblood,1ST,USD,available
+Flash Token,flashtoken,FTOKEN,USD,available
+Fonziecoin,fonziecoin,FONZ,USD,available
+FuturoCoin,futurocoin,FTO,USD,available
+PrismChain,prismchain,PRM,USD,available
+RabbitCoin,rabbitcoin,RBBT,USD,available
+SpankChain,spankchain,SPANK,USD,available
+SportsCoin,sportscoin,SPORT,USD,available
+TrickyCoin,trickycoin,TRICK,USD,available
+Bitcoin God,bitcoin-god,GOD,USD,available
+CoinEx Token,coinextoken,CET,USD,available
+Dinastycoin,dinastycoin,DCY,USD,available
+NewYorkCoin,newyorkcoin,NYC,USD,available
+NoLimitCoin,nolimitcoin,NLC2,USD,available
+V-Dimension,v-dimension,VOLLAR,USD,available
+Counterparty,counterparty,XCP,USD,available
+Cycling Coin,cycling-coin,CYC,USD,available
+DeltaCredits,deltacredits,DCRE,USD,available
+Bitcoin Vault,bitcoin-vault,BTCV,USD,available
+Ethereum Lite,ethereum-lite,ELITE,USD,available
+InflationCoin,inflationcoin,IFLT,USD,available
+InvisibleCoin,invisiblecoin,IVZ,USD,available
+Super Bitcoin,super-bitcoin,SBTC,USD,available
+CryptoBossCoin,cryptobosscoin,CBC,USD,available
+Ethereum eRush,ethereum-erush,EER,USD,available
+EurocoinToken,eurocoin-token,ECTE,USD,available
+Exchange Union,exchange-union,XUC,USD,available
+FrankyWillCoin,frankywillcoin,FRWC,USD,available
+GameLeagueCoin,gameleaguecoin,GML,USD,available
+Halloween Coin,halloween-coin,HALLO,USD,available
+Jibrel Network,jibrel-network,JNT,USD,available
+ThoreCashTRX,thore-cash-trx,TCHTRX,USD,available
+United Bitcoin,united-bitcoin,UBTC,USD,available
+CryptoWorldX Token,cryptoworldx-token,CWXT,USD,available
+Cryptoindex.com 100,cryptoindex-com-100,CIX100,USD,available
+Digital Bullion Gold,digital-bullion-gold,DBG,USD,available
+Advanced Internet Blocks,advanced-internet-blocks,AIB,USD,available
